@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lessonidk/lessonidk.vcxproj" Id="efe87bf6-a3d5-405c-af84-2aff63dc2566" />
+</Solution>
